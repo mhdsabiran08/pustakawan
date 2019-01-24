@@ -1,0 +1,109 @@
+ body{
+            background-image:url(images/bg.jpg);
+}
+h1{
+            font-size:36px;
+            text-align:center;
+}
+p{
+            font-size:13px;
+}
+deskripsi{
+            font-size:9px;
+            margin:3px 20px 2px 20px;
+            text-align:justify;
+}
+#kanvas{
+            width:900;
+            margin:auto;
+            padding:70;
+           
+}
+/*-------header mulai dari sini------*/
+#header{
+            width: 880px;
+            height: 170px;
+            font-weight:bold;
+            margin-left:auto;
+            margin-right:auto;
+            background-color:#666;
+            border-top-left-radius: 10;
+            border-top-right-radius: 10;
+    overflow: hidden;
+            font-family:"Comic Sans MS", cursive;
+           
+}
+/*-------end-------*/
+
+/*-------menu mulai darisini--------*/
+#menu {
+            overflow: hidden;
+            height: 50px;
+            padding:0;
+}
+
+#menu ul {
+            margin: 0;
+            padding: 0px 0px 0px 0px;
+            list-style: none;
+            line-height: normal;
+            text-align: center;
+}
+
+#menu li {
+            display: inline-block;
+}
+
+#menu a {
+            display: block;
+            padding: 0px 30px;
+            line-height: 60px;
+            border: none;
+            text-decoration: none;
+            text-transform: lowercase;
+            text-align: center;
+            text-transform: uppercase;
+            font-family: 'Oswald', sans-serif;
+            font-size: 14px;
+            font-weight: 300;
+            color: #CCC;
+}
+
+#menu a:hover{
+            background-color:#666;
+            border-bottom-left-radius: 10;
+            border-bottom-right-radius: 10;
+            color:#FFF;
+}
+/*---------end-------*/
+
+/*---------page mulai dari sini---------*/
+#content{
+            width:880;
+            height:700;
+            text-align:justify;
+            font-family:Arial, Helvetica, sans-serif;
+            background-color:#ccc;
+            color:#000;
+            margin-top:10;
+            padding:0px 10px 0px 10px;
+            border-top-left-radius: 10;
+            border-top-right-radius: 10;
+            border-bottom-left-radius: 10;
+            border-bottom-right-radius: 10;
+}
+/*-------end-------*/
+
+/*-------footer mulai dari sini--------*/
+#footer{
+            width:880;
+            height:150;
+            border-bottom-left-radius: 10;
+            border-bottom-right-radius: 10;
+            background-color:#666;
+            font-family:"Comic Sans MS", cursive;
+            margin-top:50;
+            text-align:center;
+            padding-top:20;
+}
+/*-------end-------*/

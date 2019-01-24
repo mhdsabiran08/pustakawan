@@ -1,0 +1,17 @@
+.isi{
+	min-height: 512px;
+}
+
+td.tengah{
+	vertical-align: middle !important;
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size: 12pt;
+}
+
+.btn-back{
+	margin-right: 20px;
+}
+
+h5.tiles{
+	font-family: "Comic Sans MS", cursive;
+}
